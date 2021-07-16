@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+- Nick Drake
+- My Bloody Valentine
+- Elliott Smith
+- Unwound
+- Duster
+- Nujabes
+- Dj Shadow
+- Uppermost
+- Have a Nice Life
+- Kate Bush
