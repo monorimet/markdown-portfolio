@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am a __bold__ and _flexible_ young whippersnapper with competent knowledge of __*Deep Learning / Artificial Neural Networks*__ , __*C++*__, and __*Mathematics, including Linear Algebra, Differential Equations, and the Calculus.*__. One may also condescend to geek out about music with me.
