@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![image of monoko](https://i0.wp.com/breakingcanon.com/wp-content/uploads/2016/08/yume-nikki-023.jpg)
